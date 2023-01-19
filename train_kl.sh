@@ -1,0 +1,1 @@
+python main.py --no_batching --use_viewdirs --white_bkgd --entropy --entropy_ray_zvals_lambda 0.0005 --smoothing --smooth_sampling_method "near_pixel" --smooth_pixel_range 1 --smoothing_activation softmax --smoothing_lambda 0.00001 --smoothing_step_size 2500 --train_scene 13 72 95 4
